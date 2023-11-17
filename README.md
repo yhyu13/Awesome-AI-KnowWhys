@@ -13,3 +13,6 @@
   - [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/abs/1910.12478)
   - [Tensor Programs VI: Feature Learning in Infinite-Depth Neural Networks](https://arxiv.org/abs/2310.02244)
   - [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
+
+- OpenAI
+  - [2018,2019 papers on GPT & Scaling laws](https://openai.com/research?page=3)
